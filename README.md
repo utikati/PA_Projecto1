@@ -1,5 +1,5 @@
-# PA_Projecto1
-PA_Project1
+PA_Projecto1
+
 
 School Project for OOP Java (Advanced Programing Subject) - Using Data Base
 
